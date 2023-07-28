@@ -1,0 +1,31 @@
+los datos son: 
+nombreas: juan
+apellido: ramirez
+--------------
+nombreas: pedro
+apellido: grismaldo
+--------------
+nombreas: maria
+apellido: gomez
+--------------
+nombreas: jose
+apellido: perez
+--------------
+nombreas: luis
+apellido: gonzales
+--------------
+nombreas: jorge
+apellido: rodriguez
+--------------
+nombreas: carlos
+apellido: hernandez
+--------------
+nombreas: daniel
+apellido: diaz
+--------------
+nombreas: javier
+apellido: torres
+--------------
+nombreas: julian
+apellido: castro
+--------------
